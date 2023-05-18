@@ -45,6 +45,11 @@ export interface PluginOptions {
    * @default 'gjs-get-inlined-html'
    */
   cmdInlineHtml?: string,
+  /**
+   * Open HTML Email in default Email client.
+   * @default 'sendEmail'
+   */
+  cmdSendEmail?: string,
 
   /**
    * Title for the import modal.
@@ -143,6 +148,7 @@ const plugin: grapesjs.Plugin<PluginOptions> = (editor, opts: Partial<PluginOpti
     cmdOpenImport: 'gjs-open-import-template',
     cmdTglImages: 'gjs-toggle-images',
     cmdInlineHtml: 'gjs-get-inlined-html',
+    cmdSendEmail: 'sendEmail',
     modalTitleImport: 'Import template',
     modalTitleExport: 'Export template',
     modalLabelImport: '',

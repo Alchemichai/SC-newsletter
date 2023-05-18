@@ -1,9 +1,10 @@
 import type grapesjs from 'grapesjs';
 import openImportCommand from './openImportCommand';
 import openExportCommand from './openExportCommand';
+import sendEmailCommand from './sendEmailCommand'
 import tglImagesCommand from './toggleImagesCommand';
 import { PluginOptions } from '.';
-import { cmdClear, cmdDeviceDesktop, cmdDeviceMobile, cmdDeviceTablet } from './consts';
+import { cmdClear, cmdDeviceDesktop, cmdDeviceMobile, cmdDeviceTablet} from './consts';
 
 export default (editor: grapesjs.Editor, opts: Required<PluginOptions>) => {
     const { Commands } = editor;
@@ -11,6 +12,7 @@ export default (editor: grapesjs.Editor, opts: Required<PluginOptions>) => {
 
     openImportCommand(editor, opts);
     openExportCommand(editor, opts);
+    sendEmailCommand(editor, opts);
     tglImagesCommand(editor, opts);
 
     Commands.add(cmdDeviceDesktop, {

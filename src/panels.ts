@@ -1,10 +1,10 @@
 import type grapesjs from 'grapesjs';
 import { PluginOptions } from '.';
-import { cmdClear, cmdDeviceDesktop, cmdDeviceMobile, cmdDeviceTablet } from './consts';
+import { cmdClear, cmdDeviceDesktop, cmdDeviceMobile, cmdDeviceTablet} from './consts';
 
 export default (editor: grapesjs.Editor, opts: Required<PluginOptions>) => {
   const { Panels } = editor;
-  const { cmdOpenImport, cmdTglImages } = opts;
+  const { cmdOpenImport, cmdTglImages, cmdSendEmail} = opts;
   const openExport = 'export-template';
   const openStyleManager = 'open-sm';
   const openTraits = 'open-tm';
@@ -43,6 +43,12 @@ export default (editor: grapesjs.Editor, opts: Required<PluginOptions>) => {
         command: cmdDeviceMobile,
         label: `<svg ${iconStyle} viewBox="0 0 24 24">
             <path fill="currentColor" d="M17,19H7V5H17M17,1H7C5.89,1 5,1.89 5,3V21A2,2 0 0,0 7,23H17A2,2 0 0,0 19,21V3C19,1.89 18.1,1 17,1Z" />
+        </svg>`
+      },{
+        id: cmdSendEmail,
+        command: cmdSendEmail,
+        label: `<svg ${iconStyle} viewBox="0 0 1792 1792">
+            <path fill="currentColor" d="M1764 11q33 24 27 64l-256 1536q-5 29-32 45q-14 8-31 8q-11 0-24-5l-453-185l-242 295q-18 23-49 23q-13 0-22-4q-19-7-30.5-23.5T640 1728v-349l864-1059l-1069 925l-395-162q-37-14-40-55q-2-40 32-59L1696 9q15-9 32-9q20 0 36 11z"/>
         </svg>`
       }]
     },

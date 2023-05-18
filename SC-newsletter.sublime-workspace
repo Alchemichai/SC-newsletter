@@ -1,0 +1,492 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"session_",
+				"session_type_name"
+			],
+			[
+				"Smart",
+				"SmartTags.json"
+			],
+			[
+				"readfile",
+				"fs.readFileSync"
+			],
+			[
+				"for",
+				"for〔keyword〕"
+			],
+			[
+				"App",
+				"AppointmentType〔argument〕"
+			],
+			[
+				"ellipse",
+				"ellipseMode\">ellipseMode()</a"
+			],
+			[
+				"elip",
+				"ellipse"
+			],
+			[
+				"Th",
+				"therapistID"
+			],
+			[
+				"recurrenceEnds",
+				"recurrenceEndsAfter"
+			],
+			[
+				"recu",
+				"recurrenceEnds"
+			],
+			[
+				"rec",
+				"recurrence"
+			],
+			[
+				"con",
+				"console.log"
+			],
+			[
+				"ther",
+				"therapistListConstructor"
+			],
+			[
+				"thr",
+				"therapistList"
+			],
+			[
+				"lo",
+				"console.log"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Nodejs/Nodejs.sublime-build",
+					""
+				],
+				[
+					"Packages/User/NodeTest.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/NodeTest.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packa inst",
+				"Package Control: Install Package"
+			],
+			[
+				"trello",
+				"Trello: Navigate"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"p",
+				"Package Control: Disable Package"
+			],
+			[
+				"packa ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"syntax: javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"key",
+				"Preferences: Terminus Key Bindings"
+			],
+			[
+				"reset",
+				"Terminus: Reset"
+			],
+			[
+				"terminus",
+				"Terminus: Reset"
+			],
+			[
+				"termin",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"terminus view",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"npm",
+				"Nodejs::NPM::Command"
+			],
+			[
+				"npm::install",
+				"Nodejs::NPM::Install"
+			],
+			[
+				"NPM",
+				"Nodejs::NPM::Command"
+			],
+			[
+				"Nodejs::NPM::Install",
+				"Nodejs::NPM::Install"
+			],
+			[
+				"npm::Install ",
+				"Nodejs::NPM::Install"
+			],
+			[
+				"npm install",
+				"Nodejs::NPM::Install"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"npm list",
+				"npm: List Installed Packages, Deep"
+			],
+			[
+				"node",
+				"Nodejs::NPM::List"
+			],
+			[
+				"nodejs::",
+				"Nodejs::Run::Current File"
+			],
+			[
+				"npm upda",
+				"Nodejs::NPM::Update"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"installpack",
+				"Package Control: Install Package"
+			],
+			[
+				"pkgc",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 255.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Chris Swingle/Documents/Projects/GitHub/SC-newsletter"
+	],
+	"file_history":
+	[
+		"/C/Users/Chris Swingle/Documents/Projects/GitHub/OwlJs/Prototyping/dirty scripts/apptLateFeeTest.js",
+		"/C/Users/Chris Swingle/Documents/Projects/GitHub/OwlJs/Prototyping/Setters/EditAppointment.js",
+		"/C/Users/Chris Swingle/Documents/Projects/GitHub/OwlJs/Prototyping/dirty scripts/setForm.js",
+		"/C/Users/Chris Swingle/Documents/Projects/GitHub/OwlJs/Prototyping/Setters/CreateAppointment.js",
+		"/C/Users/Chris Swingle/Documents/Projects/GitHub/OwlJs/Prototyping/OwlPracticeApiPrototype3",
+		"/?nas/Bitwarden/bwdata/env/uid.env",
+		"/C/Users/Chris Swingle/Documents/Projects/GitHub/SheikahDeck/pack.json",
+		"/C/Users/Chris Swingle/Documents/Projects/GitHub/OwlJs/package.json",
+		"/C/Users/Chris Swingle/Documents/Projects/GitHub/OwlJs/Prototyping/OwlPracticeApiPrototype3.js",
+		"/C/Users/Chris Swingle/AppData/Local/Temp/7zO00D26692/Password.txt",
+		"/C/Users/Chris Swingle/Documents/Projects/Ideas/ComputerProject Desk.todo",
+		"/C/Users/Chris Swingle/Documents/Projects/Ideas/Plasma Sputterer.todo",
+		"/C/Users/Chris Swingle/Documents/Projects/Ideas/Future Projects.todo",
+		"/C/Users/Chris Swingle/Documents/Projects/GitHub/OwlJs/node_modules/chrome-cookies-secure/index.js",
+		"/C/Users/Chris Swingle/Documents/Projects/GitHub/OwlJs/OwlPracticeProtoAPI.sublime-project",
+		"/C/Users/Chris Swingle/AppData/Roaming/Sublime Text/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Chris Swingle/AppData/Roaming/Sublime Text/Packages/AutoFileName/autofilename.sublime-settings",
+		"/C/Users/Chris Swingle/Documents/Projects/GitHub/OwlJs/node_modules/chrome-cookies-secure/package.json",
+		"/?nas/home/Temp Items/Send_Key_A.txt",
+		"/C/Users/Chris Swingle/Documents/Projects/GitHub/OwlCli/config/New Text Document.txt",
+		"/C/Users/Chris Swingle/Documents/Projects/Coding/ExcelJs/node_modules/wrappy/wrappy.js",
+		"/C/Users/Chris Swingle/Documents/Projects/Coding/ExcelJs/node_modules/fast-csv/build/src/index.js",
+		"/C/Users/Chris Swingle/Documents/Projects/Coding/ExcelJs/node_modules/binary/index.js",
+		"/C/Users/Chris Swingle/Documents/Projects/Coding/P5 Test/libraries/p5.js",
+		"/C/Users/Chris Swingle/AppData/Roaming/Sublime Text/Packages/PlainTasks/Default (Windows).sublime-keymap",
+		"/C/Users/Chris Swingle/Documents/Projects/GitHub/OwlCli/OwlCli.todo",
+		"/C/Users/Chris Swingle/Documents/Projects/GitHub/OwlCli/package.json",
+		"/C/Users/Chris Swingle/Documents/Projects/GitHub/OwlJs/fetches/OwlPracticeApiPrototype.js",
+		"/C/Users/Chris Swingle/Documents/Projects/GitHub/OwlCli/node_modules/node-owlpractice/package.json",
+		"/C/Users/Chris Swingle/Documents/Projects/GitHub/OwlJs/Prototyping/Setters/SetClinicalDetails.js",
+		"/C/Users/Chris Swingle/AppData/Roaming/Sublime Text/Packages/Nodejs/Nodejs.sublime-build",
+		"/C/Users/Chris Swingle/Documents/Projects/Coding/OwlPractice/OwlPracticeProtoAPI.sublime-project",
+		"/C/Users/Chris Swingle/Documents/Projects/Coding/OwlPractice/fetches/Setters/EditAppointment.js",
+		"/C/Users/Chris Swingle/Documents/Projects/Coding/OwlPractice/fetches/Getters/ListSessions.js",
+		"/C/Users/Chris Swingle/Documents/Projects/Coding/OwlPractice/fetches/Setters/CreateAppointment.js",
+		"/C/Users/Chris Swingle/Documents/Projects/Coding/OwlPractice/Daysheet/objDaysheet.js",
+		"/C/Users/Chris Swingle/Documents/Projects/OwlPractice/Daysheet/objDaysheet.js",
+		"/C/Users/Chris Swingle/Documents/Projects/OwlPractice/package.json",
+		"/C/Users/Chris Swingle/Documents/Projects/ExcelJs/Scripts/EditFile.js",
+		"/C/Users/Chris Swingle/Documents/Projects/ExcelJs/Scripts/CreateFile.js",
+		"/C/Users/Chris Swingle/Documents/Projects/ExcelJs/Scripts/IntelTest.js",
+		"/C/Users/Chris Swingle/Documents/Projects/ExcelJs/OwlExcel.sublime-project",
+		"/C/Users/Chris Swingle/AppData/Roaming/Sublime Text/Packages/All Autocomplete/All Autocomplete.sublime-settings",
+		"/C/Users/Chris Swingle/Documents/Projects/Sublime Autocomplete Overhaul/New Rich Text Document.txt",
+		"/C/Users/Chris Swingle/Documents/Projects/Sublime Project Test/test",
+		"/C/Users/Chris Swingle/Documents/Projects/Sublime Project Test/test2",
+		"/C/Users/Chris Swingle/Documents/Projects/Sublime Project Test/Test Project.sublime-project",
+		"/C/Users/Chris Swingle/Documents/Projects/OwlPractice/fetches/Setters/temp.js",
+		"/C/Users/Chris Swingle/Documents/Projects/OwlPractice/fetches/CreateAppointment.js",
+		"/C/Users/Chris Swingle/Documents/Projects/OwlPractice/fetches/SetClinicalDetails.js",
+		"/C/Users/Chris Swingle/Documents/Projects/OwlPractice/fetches/RemovePersonalAppt.js",
+		"/C/Users/Chris Swingle/Documents/Projects/OwlPractice/fetches/Setters/RemoveAppointment.js",
+		"/C/Users/Chris Swingle/Documents/Projects/OwlPractice/fetches/EditAppointment.js",
+		"/C/Users/Chris Swingle/Documents/Projects/OwlPractice/fetches/Setters/CreatePersonalAppt.js",
+		"/C/Users/Chris Swingle/Documents/Projects/OwlPractice/fetches/RemoveAppointment.js",
+		"/C/Users/Chris Swingle/Documents/Projects/OwlPractice/fetches/CreatePersonalAppt.js",
+		"/C/Users/Chris Swingle/Documents/Projects/P5 Test/libraries/p5.js",
+		"/C/Users/Chris Swingle/Documents/Projects/P5 Test/index.html",
+		"/C/Users/Chris Swingle/Documents/Projects/P5 Test/Scripts/p5Test.js",
+		"/C/Users/Chris Swingle/Downloads/p5/empty-example/index.html",
+		"/C/Users/Chris Swingle/Documents/Projects/P5 Test/node_modules/p5/lib/p5.js",
+		"/C/Users/Chris Swingle/Documents/Projects/OwlPractice/fetches/RemoveSession.js",
+		"/C/Users/Chris Swingle/Documents/Projects/OwlPractice/CreateAppointment.js",
+		"/C/Users/Chris Swingle/Documents/Projects/OwlPractice/CreatePersonalAppt.js",
+		"/C/Users/Chris Swingle/Documents/Projects/OwlPractice/tests/SetClinicalDetails.js",
+		"/C/Users/Chris Swingle/Documents/Projects/OwlPractice/SetClinicalDetails.js",
+		"/C/Users/Chris Swingle/Documents/Projects/OwlPractice/CookieTest.js",
+		"/C/Users/Chris Swingle/Documents/Projects/OwlPractice/Test.js",
+		"/C/Users/Chris Swingle/AppData/Roaming/Sublime Text/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Chris Swingle/AppData/Roaming/Sublime Text/Packages/Terminus/Default.sublime-keymap",
+		"/C/Users/Chris Swingle/Documents/Projects/OwlPractice/package-lock.json",
+		"/C/Users/Chris Swingle/Documents/Projects/Experiments/Package Testing/NewTest.js",
+		"/C/Users/Chris Swingle/Documents/Projects/P5 Test/p5Test.js",
+		"/C/Users/Chris Swingle/Documents/Projects/New folder/NewTest.js",
+		"/C/Users/Chris Swingle/Documents/Projects/New folder/package.json",
+		"/C/Users/Chris Swingle/Documents/Projects/P5 Test/NewTest.js",
+		"/C/Users/Chris Swingle/Documents/Projects/Experiments/ServerCmd.txt",
+		"/C/Users/Chris Swingle/Documents/Projects/Experiments/httpServer.js",
+		"/C/Users/Chris Swingle/Documents/Projects/OwlPractice/OwlPracticeAPI.js",
+		"/C/Users/Chris Swingle/Documents/Projects/OwlPractice/ServerCmd.txt",
+		"/C/Users/Chris Swingle/Documents/Projects/P5 Test/node_modules/p5/package.json",
+		"/C/Users/Chris Swingle/Documents/Projects/P5 Test/package-lock.json",
+		"/C/Users/Chris Swingle/Documents/Projects/P5 Test/package.json",
+		"/C/Users/Chris Swingle/AppData/Roaming/Sublime Text/Packages/Nodejs/Default (Windows).sublime-keymap",
+		"/C/Users/Chris Swingle/Desktop/New Text Document.js",
+		"/C/Users/Chris Swingle/Desktop/package.json",
+		"/C/Users/Chris Swingle/Desktop/New Text Document.txt",
+		"/C/Users/Chris Swingle/AppData/Roaming/Sublime Text/Packages/Nodejs/Nodejs.sublime-settings",
+		"/C/Users/Chris Swingle/AppData/Roaming/Sublime Text/Packages/User/NodeTest.sublime-build",
+		"/C/Users/Chris Swingle/Desktop/server.js",
+		"/C/TempJsProjects/server.js",
+		"/C/Users/Chris Swingle/AppData/Roaming/Sublime Text/Packages/Nodejs/tools/default_build.js",
+		"/C/Users/Chris Swingle/AppData/Roaming/Sublime Text/Packages/Nodejs/Nodejs.sublime-completions",
+		"/C/Users/Chris Swingle/AppData/Roaming/Sublime Text/Packages/Nodejs/Default.sublime-commands",
+		"/C/Users/Chris Swingle/AppData/Roaming/Sublime Text/Packages/Nodejs/Nodejs.py",
+		"/C/TempProjects/server.js",
+		"/C/Users/Chris Swingle/AppData/Roaming/Sublime Text/Packages/npm/npm.sublime-settings",
+		"/C/Users/Chris Swingle/AppData/Roaming/Sublime Text/Packages/User/Nodejs.sublime-settings",
+		"/C/Users/Chris Swingle/Desktop/Sandbox Registry Settings/PrinterSandbox.wsb",
+		"/C/Users/Chris Swingle/Desktop/Sandbox Registry Settings/Enable_printer_sharing_with_Windows_Sandbox.reg",
+		"/C/Users/Chris Swingle/Desktop/Sandbox Registry Settings/Disable_printer_sharing_with_Windows_Sandbox.reg",
+		"/C/Users/Chris Swingle/AppData/Roaming/ATLauncher/instances/Minecraft1181withForge/instance.json"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 244.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 84.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.Terminus":
+	{
+		"height": 157.0
+	},
+	"output.Terminus 2":
+	{
+		"height": 194.0
+	},
+	"output.Terminus Build Results":
+	{
+		"height": 365.0
+	},
+	"output.exec":
+	{
+		"height": 383.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.nodejs":
+	{
+		"height": 240.0
+	},
+	"output.textarea":
+	{
+		"height": 201.0
+	},
+	"pinned_build_system": "Packages/Nodejs/Nodejs.sublime-build",
+	"project": "SC-newsletter.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 234.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 283.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
